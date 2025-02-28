@@ -1,0 +1,11 @@
+.sec_1{
+    background-image: url(./Background.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 510px) {
+    .sec_1{
+        background-size: 300%;
+    }
+}
